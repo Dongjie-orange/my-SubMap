@@ -1,0 +1,27 @@
+{
+    "id": "9138A018",
+    "path": "~/Desktop/R data/A02_Templet  File/1.0_TCGA_master/Submap/submap.R",
+    "project_path": "submap.R",
+    "type": "r_source",
+    "hash": "225058818",
+    "contents": "",
+    "dirty": false,
+    "created": 1672743701046.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "8,68",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1695392673,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1695392673160,
+    "read_only": false,
+    "read_only_alternatives": []
+}
